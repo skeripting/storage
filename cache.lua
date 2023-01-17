@@ -1,4 +1,4 @@
-local function class(nc, newf) --SCRIPT: I did not make this
+local function class(nc, newf) --SCRIPT: I did not make this function
     nc = nc or {}
     nc.__index = nc
     local classDebugData
